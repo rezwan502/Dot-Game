@@ -1,8 +1,5 @@
 # Dot-Game
-
-
-<body>
-
+<html>
 <style>
 div.gallery {
     margin: 50px;
@@ -17,6 +14,8 @@ div.gallery img {
 }
 </style>
 
+
+<body>
 <div class="gallery">
   <a target="_blank">
     <img src="DotGame/src/human_vs_ai/images/game_example.gif" width="300" height="200" hspace="20">
@@ -29,3 +28,4 @@ div.gallery img {
   </a>
 </div>
 </body>
+</html>

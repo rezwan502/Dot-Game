@@ -8,10 +8,6 @@ div.gallery {
     width: 180px;
 }
 
-div.gallery img {
-    width: 100%;
-    height: auto;
-}
 </style>
 
 
